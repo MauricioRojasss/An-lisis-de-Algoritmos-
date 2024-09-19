@@ -1,1 +1,1 @@
-# An-lisis-de-Algoritmos-
+Los archivos fuente contienen las implementaciones de los algoritmos de ordenamiento y las estructuras de datos, mientras que benchmark.cpp es el archivo principal que realiza las pruebas de rendimiento. Este archivo ejecuta los algoritmos (BubbleSort, SelectionSort, MergeSort) y mide sus tiempos de ejecución en los casos mejor, peor y promedio, los resultados son graficados usando QtCharts desde el archivo graph.cpp, para ejecutar el programa, simplemente corre el ejecutable generado benchmark
